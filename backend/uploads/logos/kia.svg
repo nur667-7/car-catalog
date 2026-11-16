@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 45" width="100" height="45">
+  <!-- KIA stylized logo -->
+  <path d="M12 34 L12 10 M12 22 L26 10 M12 22 L26 34 M36 10 L36 34 M46 34 L56 10 L66 34 M50 26 L62 26" 
+        stroke="#111827" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
